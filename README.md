@@ -176,7 +176,7 @@ Na sua máquina você deve ter:
 _Antes de tudo clone o repositório_
 
 ```jsx
-git clone git@github.com:TonyyCruz/trybe-futebol-clube.git
+git clone git@github.com:marcotuliovd/leaderboard-soccer-Full-Stack.git
 ```
 
 ---
