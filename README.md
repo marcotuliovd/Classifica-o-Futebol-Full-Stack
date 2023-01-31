@@ -1,10 +1,5 @@
 # Leaderboard Soccer
-<p align="center"> 
-  <img height="100" src="app/frontend/src/images/positive_logo.png"/>
-  <h1 align="center">Trybe Futebol Clube</h1>
-</p>
-
-<p align="center">Neste projeto, foi desenvolvido um site informativo sobre partidas e classificações de futebol.</p>
+<p align="center">Neste projeto, foi desenvolvido um site informativo sobre partidas e classificações de futebol no curso da Trybe. O nome da aplicação é Trybe Futebol Clube.</p>
 
 ---
 
@@ -247,11 +242,4 @@ _Execute na raiz do projeto_
   ```
 
   <br />
-</details>
-
----
-
-<details>
-  <summary><strong>🎲 Diagrama</strong></summary><br />
-  <img src="app/frontend/src/images/er-diagram.png"/>
 </details>
